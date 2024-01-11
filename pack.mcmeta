@@ -1,6 +1,10 @@
 {
   "pack": {
-	"pack_format": 12,
-	"description": "PRIDE SHEEPS"
+    "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 9999
+    },
+    "description": "PRIDE SHEEEPS!!!!"
   }
 }
